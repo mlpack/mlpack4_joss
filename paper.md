@@ -50,13 +50,13 @@ allow prototyping to be seamlessly performed in environments other than C++.
 
 Over the past few decades, the use of machine learning has become ubiquitous in
 almost every scientific discipline and countless commercial applications
-[@jordan2015machine, @carleo2019machine].  There is one important commonality to
-virtually every one of these applications: machine learning---which is built on
-top of linear algebra operations---is computationally intensive.  Modern large
-language models such as BERT [@devlin2018bert] have hundreds of millions of
-training parameters, and correspondingly takes a massive amount of computation
-to train.  Even non-deep learning approaches such as random forests may take
-many hours to train due to their extensive computational needs
+[@jordan2015machine] [@carleo2019machine].  There is one important commonality
+to virtually every one of these applications: machine learning---which is built
+on top of linear algebra operations---is computationally intensive.  Modern
+large language models such as BERT [@devlin2018bert] have hundreds of millions
+of training parameters, and correspondingly takes a massive amount of
+computation to train.  Even non-deep learning approaches such as random forests
+may take many hours to train due to their extensive computational needs
 [@gieseke2018training].  Clearly, this highlights the need for efficient
 implementations, and this was the clear motivator for the original development
 of mlpack in C++ [@curtin2013mlpack].
