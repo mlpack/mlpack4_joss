@@ -141,10 +141,11 @@ examples of C++ notebooks can be found in the [mlpack examples
 repository](https://github.com/mlpack/examples), and these can easily be run on
 BinderHub.
 
-*New bindings and availability.* Support for the Julia, Go, and R [cite]
+*New bindings and availability.* Support for the Julia, Go, and R 
+[@bezanson2017julia, @pike2012go, @rcore2022, @parihar2022rmlpack]
 languages has been added via mlpack's automatic binding system.  These bindings
 can be used by installing mlpack from the language's package manager (`Pkg.jl`,
-`go get`, CRAN).  In addition, since mlpack's reduced dependency footprint has
+`go get`, `install.packages('mlpack')`).  In addition, since mlpack's reduced dependency footprint has
 significantly simplified the deployment process, mlpack's Python dependencies
 are now available for numerous architectures---including Windows---both on PyPI
 and in `conda-forge`.
