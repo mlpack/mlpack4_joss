@@ -29,6 +29,7 @@ authors:
  - name: Roshan Swain
 
 affiliations:
+ - Sangyeon Kim: NAVER WEBTOON AI
 date: 4 November 2022
 bibliography: paper.bib
 
