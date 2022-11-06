@@ -22,7 +22,7 @@ authors:
  - name: Anjishnu Mukherjee
  - name: Nanubala Gnana Sai
  - name: Conrad Sanderson
- - name: Kim SangYeon
+ - name: Sangyeon Kim
  - name: Nippun Sharma
  - name: Omar Shrit
  - name: Yashwant Singh
