@@ -22,6 +22,7 @@ authors:
  - name: Sangyeon Kim
    affiliation: 1
  - name: Anjishnu Mukherjee
+   affiliation: 2
  - name: Nanubala Gnana Sai
  - name: Conrad Sanderson
  - name: Nippun Sharma
@@ -32,6 +33,8 @@ authors:
 affiliations:
  - name: NAVER WEBTOON AI
    index: 1
+ - name: George Mason University
+   index: 2
 date: 4 November 2022
 bibliography: paper.bib
 
@@ -144,7 +147,7 @@ examples of C++ notebooks can be found in the [mlpack examples
 repository](https://github.com/mlpack/examples), and these can easily be run on
 BinderHub.
 
-*New bindings and availability.* Support for the Julia, Go, and R 
+*New bindings and availability.* Support for the Julia, Go, and R
 [@bezanson2017julia, @pike2012go, @rcore2022, @parihar2022rmlpack]
 languages has been added via mlpack's automatic binding system.  These bindings
 can be used by installing mlpack from the language's package manager (`Pkg.jl`,
