@@ -19,17 +19,19 @@ authors:
  - name: Rishabh Garg
  - name: Shikhar Jaiswal
  - name: Aakash Kaushik
+ - name: Sangyeon Kim
+   affiliation: 1
  - name: Anjishnu Mukherjee
  - name: Nanubala Gnana Sai
  - name: Conrad Sanderson
- - name: Sangyeon Kim
  - name: Nippun Sharma
  - name: Omar Shrit
  - name: Yashwant Singh
  - name: Roshan Swain
 
 affiliations:
- - Sangyeon Kim: NAVER WEBTOON AI
+ - name: NAVER WEBTOON AI
+   index: 1
 date: 4 November 2022
 bibliography: paper.bib
 
