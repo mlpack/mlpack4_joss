@@ -22,6 +22,8 @@ authors:
    affiliation: 4
  - name: Kartik Dutt
  - name: Dirk Eddelbuettel
+   orcid: 0000-0001-6419-907X
+   affiliation: 7
  - name: Rishabh Garg
  - name: Shikhar Jaiswal
  - name: Aakash Kaushik
@@ -51,6 +53,8 @@ affiliations:
    index: 5
  - name: George Mason University
    index: 6
+ - name: Department of Statistics, University of Illinois, Urbana-Champaign
+   index: 7
 date: 4 November 2022
 bibliography: paper.bib
 
