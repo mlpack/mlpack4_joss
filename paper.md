@@ -45,7 +45,7 @@ affiliations:
    index: 1
  - name: Collabora, Inc.
    index: 2
- - name: Department of Statistics and Informatics, University of Illinois, Urbana-Champaign
+ - name: Departments of Statistics and Informatics, University of Illinois, Urbana-Champaign
    index: 3
  - name: Emory University
    index: 4
