@@ -9,20 +9,26 @@ tags:
 
 authors:
  - name: Ryan R. Curtin
+   orcid: 0000-0002-9903-8214
+   affiliation: 1
  - name: Marcus Edel
+   orcid: 0000-0001-5445-7303
+   affiliation: 2
  - name: Shubham Agrawal
  - name: Suryoday Basak
  - name: James J. Balamuta
+   affiliation: 3
  - name: Ryan Birmingham
+   affiliation: 4
  - name: Kartik Dutt
  - name: Dirk Eddelbuettel
  - name: Rishabh Garg
  - name: Shikhar Jaiswal
  - name: Aakash Kaushik
  - name: Sangyeon Kim
-   affiliation: 1
+   affiliation: 5
  - name: Anjishnu Mukherjee
-   affiliation: 2
+   affiliation: 6
  - name: Nanubala Gnana Sai
  - name: Nippun Sharma
  - name: Omar Shrit
@@ -31,10 +37,18 @@ authors:
  - name: Conrad Sanderson
 
 affiliations:
- - name: NAVER WEBTOON AI
+ - name: Independent Researcher
    index: 1
- - name: George Mason University
+ - name: Collabora, Inc.
    index: 2
+ - name: Department of Statistics and Informatics, University of Illinois, Urbana-Champaign
+   index: 3
+ - name: Emory University
+   index: 4
+ - name: NAVER WEBTOON AI
+   index: 5
+ - name: George Mason University
+   index: 6
 date: 4 November 2022
 bibliography: paper.bib
 
