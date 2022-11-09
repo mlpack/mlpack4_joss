@@ -120,7 +120,7 @@ and exhaustive list (including numerous bug fixes and new techniques), the
 In accordance with the vision document [@mlpack2021vision], the majority of the
 refactoring and redesign work focused on reducing dependencies and compilation overhead.
 This has motivated the replacement of the [Boost](https://www.boost.org)
-C++ libraries, upon which mlpack previously depended upon,
+C++ libraries, upon which mlpack previously depended,
 with lightweight alternatives including [cereal](https://github.com/USCILab/cereal)
 for serialization.  The entire neural network module was refactored to avoid
 the use of Boost (amounting to an almost complete rewrite).
