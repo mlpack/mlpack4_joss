@@ -8,14 +8,14 @@ tags:
   - efficient
 
 authors:
+ - name: Ryan R. Curtin
+ - name: Marcus Edel
  - name: Shubham Agrawal
  - name: Suryoday Basak
  - name: James J. Balamuta
  - name: Ryan Birmingham
- - name: Ryan R. Curtin
  - name: Kartik Dutt
  - name: Dirk Eddelbuettel
- - name: Marcus Edel
  - name: Rishabh Garg
  - name: Shikhar Jaiswal
  - name: Aakash Kaushik
@@ -24,11 +24,11 @@ authors:
  - name: Anjishnu Mukherjee
    affiliation: 2
  - name: Nanubala Gnana Sai
- - name: Conrad Sanderson
  - name: Nippun Sharma
  - name: Omar Shrit
  - name: Yashwant Singh
  - name: Roshan Swain
+ - name: Conrad Sanderson
 
 affiliations:
  - name: NAVER WEBTOON AI
