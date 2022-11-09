@@ -62,16 +62,17 @@ large number of parameters and large amounts of training data.
 This was the main motivator for the original development of mlpack in the C++
 language, which allows for efficient close-to-the-metal implementations [@curtin2013mlpack].
 
-Development and deployment of applications that use machine learning can also be
-significantly hampered if the overall process is too difficult or unwieldy
-[@paleyes2020challenges,@lavin2022technology]. Furthermore, deployment environments
-often have computational or engineering constraints that make a full-stack Python
-solution infeasible [@fischer2020ai]. As such, it is important that lightweight
-and easy-to-deploy machine learning solutions are available. This has motivated
-our refactoring and redesign of mlpack 4: we pair efficient implementations with
-easy and lightweight deployment, making mlpack suitable for a wide range of deployment
-environments.  A more complete set of motivations can be found in the mlpack
-vision document [@mlpack2021vision].
+But speed is not everything: development and deployment of applications that use
+machine learning can also be significantly hampered if the overall process is
+too difficult or unwieldy [@paleyes2020challenges,@lavin2022technology].
+Furthermore, deployment environments often have computational or engineering
+constraints that make a full-stack Python solution infeasible [@fischer2020ai].
+As such, it is important that lightweight and easy-to-deploy machine learning
+solutions are available. This has motivated our refactoring and redesign of
+mlpack 4: we pair efficient implementations with easy and lightweight
+deployment, making mlpack suitable for a wide range of deployment environments.
+A more complete set of motivations can be found in the mlpack vision document
+[@mlpack2021vision].
 
 # Functionality
 
