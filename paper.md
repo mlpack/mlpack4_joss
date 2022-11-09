@@ -27,6 +27,7 @@ authors:
  - name: Aakash Kaushik
  - name: Sangyeon Kim
    affiliation: 5
+   orcid: 0000-0003-4012-8466
  - name: Anjishnu Mukherjee
    affiliation: 6
  - name: Nanubala Gnana Sai
@@ -72,7 +73,7 @@ that allow prototyping to be seamlessly performed in environments other than C++
 The use of machine learning has become ubiquitous in almost every scientific
 discipline and countless commercial applications [@jordan2015machine] [@carleo2019machine].
 There is one important commonality to virtually all of these applications:
-machine learning is often computationally intensive, due to the 
+machine learning is often computationally intensive, due to the
 large number of parameters and large amounts of training data.
 This was the main motivator for the original development of mlpack in the C++
 language, which allows for efficient close-to-the-metal implementations [@curtin2013mlpack].
@@ -95,7 +96,7 @@ The library contains a wide variety of machine learning algorithms,
 some of which are new to mlpack 4.  The list of algorithms includes linear regression,
 logistic regression, random forests, furthest-neighbor search [@curtin2016fast],
 accelerated k-means variants [@curtin2017dual], kernel density estimation [@lee2008fast],
-and fast max-kernel search [@curtin2014dual].  There is also a module for 
+and fast max-kernel search [@curtin2014dual].  There is also a module for
 deep neural networks, which has implementations of numerous layer types,
 activation functions, and reinforcement learning applications.
 Details of the available functionality are provided in the online
@@ -162,7 +163,7 @@ Furthermore, since mlpack's reduced dependency footprint has significantly
 simplified the deployment process, mlpack's Python dependencies are now
 available for numerous architectures both on PyPI and in `conda-forge`.
 
-*Cross-compilation support and build system improvements.* 
+*Cross-compilation support and build system improvements.*
 mlpack's build configuration now supports easy cross-compilation, for instance
 via toolchains such as [buildroot](https://buildroot.org).  By specifying a few
 flags, a user may produce a working mlpack setup for a variety of embedded systems.
