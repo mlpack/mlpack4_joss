@@ -159,7 +159,7 @@ deployment.
 
 # Acknowledgements
 
-Development of mlpack is a community effort. It is the product of hard work by
+Development of mlpack is community-led. It is the product of hard work by
 over 220 individuals (at the time of writing). We are also indebted to people
 that have provided bug reports over the years.  The development has been supported
 by Google, via a decade-long participation the Google Summer of Code program,
