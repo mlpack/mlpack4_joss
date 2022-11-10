@@ -20,6 +20,7 @@ authors:
    orcid: 0000-0003-2826-8458
    affiliation: 3
  - name: Ryan Birmingham
+   orcid: 0000-0002-7943-6346
    affiliation: 4
  - name: Kartik Dutt
  - name: Dirk Eddelbuettel
