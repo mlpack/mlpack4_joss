@@ -40,6 +40,7 @@ authors:
  - name: Roshan Swain
  - name: Conrad Sanderson
    orcid: 0000-0002-0049-4501
+   affiliation: 8
 
 affiliations:
  - name: Independent Researcher
@@ -56,6 +57,9 @@ affiliations:
    index: 6
  - name: Department of Statistics, University of Illinois, Urbana-Champaign
    index: 7
+ - name: Data61/CSIRO and Griffith University
+   index: 8
+
 date: 4 November 2022
 bibliography: paper.bib
 
