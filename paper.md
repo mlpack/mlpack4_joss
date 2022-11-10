@@ -44,7 +44,7 @@ authors:
 affiliations:
  - name: Independent Researcher
    index: 1
- - name: Collabora, Inc.
+ - name: Collabora Ltd
    index: 2
  - name: Departments of Statistics and Informatics, University of Illinois, Urbana-Champaign
    index: 3
