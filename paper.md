@@ -23,6 +23,8 @@ authors:
    orcid: 0000-0002-7943-6346
    affiliation: 4
  - name: Kartik Dutt
+   orcid: 0000-0003-3877-0142
+   affiliation: 11
  - name: Dirk Eddelbuettel
    orcid: 0000-0001-6419-907X
    affiliation: 7
@@ -71,6 +73,8 @@ affiliations:
    index: 9
  - name: Indian Institute of Technology Mandi
    index: 10
+ - name: Delhi Technological University
+   index: 11
 
 date: 4 November 2022
 bibliography: paper.bib
