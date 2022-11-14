@@ -38,7 +38,9 @@ authors:
  - name: Nanubala Gnana Sai
  - name: Nippun Sharma
  - name: Omar Shrit
- - name: Yashwant Singh
+ - name: Yashwant Singh Parihar
+   orcid: 0000-0003-3492-0377
+   affiliation: 9
  - name: Roshan Swain
  - name: Conrad Sanderson
    orcid: 0000-0002-0049-4501
@@ -61,6 +63,8 @@ affiliations:
    index: 7
  - name: Data61/CSIRO and Griffith University
    index: 8
+ - name: Department of Computer Science and Engineering, IIT Bombay
+   index: 9
 
 date: 4 November 2022
 bibliography: paper.bib
