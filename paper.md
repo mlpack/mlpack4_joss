@@ -30,6 +30,7 @@ authors:
  - name: Shikhar Jaiswal
  - name: Aakash Kaushik
  - name: Sangyeon Kim
+   orcid: 0000-0003-0717-0240
    affiliation: 5
  - name: Anjishnu Mukherjee
    orcid: 0000-0003-4012-8466
