@@ -44,6 +44,8 @@ authors:
    orcid: 0000-0003-3492-0377
    affiliation: 9
  - name: Roshan Swain
+   orcid: 0000-0002-7262-8230
+   affiliation: 1
  - name: Conrad Sanderson
    orcid: 0000-0002-0049-4501
    affiliation: 8
