@@ -15,7 +15,11 @@ authors:
    orcid: 0000-0001-5445-7303
    affiliation: 2
  - name: Shubham Agrawal
+   orcid: 0000-0001-8713-4682
+   affiliation: 1
  - name: Suryoday Basak
+   orcid: 0000-0002-1982-1787
+   affiliation: 12
  - name: James J. Balamuta
    orcid: 0000-0003-2826-8458
    affiliation: 3
@@ -30,7 +34,11 @@ authors:
    affiliation: 7
  - name: Rishabh Garg
  - name: Shikhar Jaiswal
+   orcid: 0000-0002-3683-3931
+   affiliation: 13
  - name: Aakash Kaushik
+   orcid: 0000-0003-1079-8838
+   affiliation: 1
  - name: Sangyeon Kim
    orcid: 0000-0003-0717-0240
    affiliation: 5
@@ -75,6 +83,10 @@ affiliations:
    index: 10
  - name: Delhi Technological University
    index: 11
+ - name: Pennsylvania State University
+   index: 12
+ - name: Microsoft Research India
+   index: 13
 
 date: 4 November 2022
 bibliography: paper.bib
