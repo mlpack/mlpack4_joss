@@ -37,6 +37,8 @@ authors:
    affiliation: 6
  - name: Nanubala Gnana Sai
  - name: Nippun Sharma
+   orcid: 0000-0003-0365-2613
+   affiliation: 10
  - name: Omar Shrit
  - name: Yashwant Singh Parihar
    orcid: 0000-0003-3492-0377
@@ -65,6 +67,8 @@ affiliations:
    index: 8
  - name: Department of Computer Science and Engineering, IIT Bombay
    index: 9
+ - name: Indian Institute of Technology Mandi
+   index: 10
 
 date: 4 November 2022
 bibliography: paper.bib
