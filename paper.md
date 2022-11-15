@@ -33,6 +33,8 @@ authors:
    orcid: 0000-0001-6419-907X
    affiliation: 7
  - name: Rishabh Garg
+   orcid: 0000-0003-0398-0887
+   affiliation: 10
  - name: Shikhar Jaiswal
    orcid: 0000-0002-3683-3931
    affiliation: 13
