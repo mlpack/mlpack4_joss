@@ -48,6 +48,8 @@ authors:
    orcid: 0000-0003-4012-8466
    affiliation: 6
  - name: Nanubala Gnana Sai
+   orcid: 0000-0003-0774-7994
+   affiliation: 1
  - name: Nippun Sharma
    orcid: 0000-0003-0365-2613
    affiliation: 10
