@@ -19,79 +19,79 @@ authors:
    affiliation: 1
  - name: Suryoday Basak
    orcid: 0000-0002-1982-1787
-   affiliation: 12
+   affiliation: 3
  - name: James J. Balamuta
    orcid: 0000-0003-2826-8458
-   affiliation: 3
+   affiliation: 4
  - name: Ryan Birmingham
    orcid: 0000-0002-7943-6346
-   affiliation: 4
+   affiliation: 5
  - name: Kartik Dutt
    orcid: 0000-0003-3877-0142
-   affiliation: 11
+   affiliation: 6
  - name: Dirk Eddelbuettel
    orcid: 0000-0001-6419-907X
    affiliation: 7
  - name: Rishabh Garg
    orcid: 0000-0003-0398-0887
-   affiliation: 10
+   affiliation: 8
  - name: Shikhar Jaiswal
    orcid: 0000-0002-3683-3931
-   affiliation: 13
+   affiliation: 9
  - name: Aakash Kaushik
    orcid: 0000-0003-1079-8838
    affiliation: 1
  - name: Sangyeon Kim
    orcid: 0000-0003-0717-0240
-   affiliation: 5
+   affiliation: 10
  - name: Anjishnu Mukherjee
    orcid: 0000-0003-4012-8466
-   affiliation: 6
+   affiliation: 11
  - name: Nanubala Gnana Sai
    orcid: 0000-0003-0774-7994
    affiliation: 1
  - name: Nippun Sharma
    orcid: 0000-0003-0365-2613
-   affiliation: 10
+   affiliation: 8
  - name: Omar Shrit
    orcid: 0000-0002-8621-3052
    affiliation: 1
  - name: Yashwant Singh Parihar
    orcid: 0000-0003-3492-0377
-   affiliation: 9
+   affiliation: 12
  - name: Roshan Swain
    orcid: 0000-0002-7262-8230
    affiliation: 1
  - name: Conrad Sanderson
    orcid: 0000-0002-0049-4501
-   affiliation: 8
+   affiliation: 13
 
 affiliations:
  - name: Independent Researcher
    index: 1
  - name: Collabora Ltd
    index: 2
- - name: Departments of Statistics and Informatics, University of Illinois, Urbana-Champaign
+ - name: Pennsylvania State University
    index: 3
- - name: Emory University
+ - name: Departments of Statistics and Informatics, University of Illinois, Urbana-Champaign
    index: 4
- - name: NAVER WEBTOON AI
+ - name: Emory University
    index: 5
- - name: George Mason University
+ - name: Delhi Technological University
    index: 6
  - name: Department of Statistics, University of Illinois, Urbana-Champaign
    index: 7
- - name: Data61/CSIRO and Griffith University
-   index: 8
- - name: Department of Computer Science and Engineering, IIT Bombay
-   index: 9
  - name: Indian Institute of Technology Mandi
-   index: 10
- - name: Delhi Technological University
-   index: 11
- - name: Pennsylvania State University
-   index: 12
+   index: 8
  - name: Microsoft Research India
+   index: 9
+ - name: NAVER WEBTOON AI
+   index: 10
+ - name: George Mason University
+   index: 11
+ - name: Department of Computer Science and Engineering, IIT Bombay
+   index: 12
+ - name: Data61/CSIRO and Griffith University
    index: 13
 
 date: 4 November 2022
