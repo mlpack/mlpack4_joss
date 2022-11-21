@@ -54,6 +54,8 @@ authors:
    orcid: 0000-0003-0365-2613
    affiliation: 10
  - name: Omar Shrit
+   orcid: 0000-0002-8621-3052
+   affiliation: 1
  - name: Yashwant Singh Parihar
    orcid: 0000-0003-3492-0377
    affiliation: 9
